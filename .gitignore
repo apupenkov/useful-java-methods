@@ -1,0 +1,11 @@
+# Default ignored files
+.idea
+*.iml
+*.ipr
+*.iws
+*.log
+out
+gen
+build
+lib
+Selenium
